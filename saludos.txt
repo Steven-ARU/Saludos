@@ -1,0 +1,4 @@
+Hola desde Git
+
+Pregunta 1:¿Para qué sirve el comando git status?
+Respuesta:
