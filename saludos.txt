@@ -1,4 +1,4 @@
 Hola desde Git
 
 Pregunta 1:¿Para qué sirve el comando git status?
-Respuesta:
+Respuesta: sirve para ver el estado actual del directorio de trabajo y del área de preparación 
