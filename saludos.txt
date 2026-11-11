@@ -8,3 +8,5 @@ git add selecciona y prepara los cambios (los pone en la sala de espera), mientr
 
 Pregunta 3: ¿Qué diferencia hay entre git pull y git fetch?
 git fetch solo descarga las novedades del repositorio remoto sin alterar tu código, mientras que git pull descarga las novedades y las mezcla (hace un merge) automáticamente en tus archivos locales.
+
+Pregunta 4: ¿Para qué sirve git branch y por qué es útil trabajar con ramas?
