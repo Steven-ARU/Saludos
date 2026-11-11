@@ -14,3 +14,7 @@ git branch sirve para crear, listar o eliminar ramas. Es útil porque te permite
 
 Pregunta 5: ¿Qué es un conflicto de fusión (merge conflict) y cómo se resuelve?
 Un conflicto de fusión se prodice cuando git no puede decidir automáticamente qué cambios conservar porque dos personas modificaron la misma línea del mismo archivo, o porque alguien borró un archivo que otra persona editó.
+
+Conclusión: Con esta práctica aprendimos a trabajar en equipo con Git: usar ramas, hacer commit y push, y resolver conflictos de fusión.
+
+Gracias por participar. Fin de la conversación.
