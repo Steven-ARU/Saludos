@@ -13,3 +13,4 @@ Pregunta 4: ¿Para qué sirve git branch y por qué es útil trabajar con ramas?
 git branch sirve para crear, listar o eliminar ramas. Es útil porque te permite crear líneas de trabajo independientes para desarrollar funciones o corregir errores sin alterar el código principal y estable del proyecto.
 
 Pregunta 5: ¿Qué es un conflicto de fusión (merge conflict) y cómo se resuelve?
+Un conflicto de fusión se prodice cuando git no puede decidir automáticamente qué cambios conservar porque dos personas modificaron la misma línea del mismo archivo, o porque alguien borró un archivo que otra persona editó.
