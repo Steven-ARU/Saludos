@@ -5,3 +5,5 @@ Respuesta: Muestra el estado del directorio de trabajo y del área de preparaci�
 
 Pregunta 2: ¿Cuál es la diferencia entre git add y git commit?
 git add selecciona y prepara los cambios (los pone en la sala de espera), mientras que git commit los guarda permanentemente en el historial.
+
+Pregunta 3: ¿Qué diferencia hay entre git pull y git fetch?
